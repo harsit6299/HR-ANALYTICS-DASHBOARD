@@ -40,4 +40,15 @@ The dashboard enables HR teams and management to make **data-driven decisions** 
 
 ---
 
+## 📬 Contact
 
+## 👨‍💻 Developed by: **Harshit Kumar**
+
+🎓 Final-Year Undergraduate | 🎯 Data Enthusiast | 💻 SQL • Python • Power BI  
+📍 NIT Patna | 📬 harshitk.nitp@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshit-kumar-32bbb7271) 
+> *Let’s connect and build something impactful together!* 🚀
+
+---
+
+⭐ **If you liked this project, don’t forget to give it a star!** ⭐
